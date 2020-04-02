@@ -4,7 +4,8 @@ using System.Text;
 
 namespace SmartHouse
 {
-    class House
+    public class House : SmartHouse
     {
+        private List<Room> _roomList;
     }
 }
