@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SmartHouseLibrary
+namespace SmartHouseLibrary.Interfaces
 {
     public interface ISmartHouse
     {
         void LightsOn();
         void LightsOff();
-        bool UnlockDoor(Face face);
-        void LockDoor();
+        void LockDoors();
     }
 }

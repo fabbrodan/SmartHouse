@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SmartHouseLibrary
+namespace SmartHouseLibrary.Structures
 {
     public class Room
     {

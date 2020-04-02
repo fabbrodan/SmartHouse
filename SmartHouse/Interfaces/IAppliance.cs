@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SmartHouseLibrary
+namespace SmartHouseLibrary.Interfaces
 {
-    public interface IKitchenAppliance
+    public interface IAppliance
     {
         public void TurnOn();
+        public void TurnOff();
     }
 }
