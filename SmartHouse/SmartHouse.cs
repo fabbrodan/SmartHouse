@@ -2,7 +2,7 @@
 
 namespace SmartHouse
 {
-    public class Class1
+    public class SmartHouse
     {
     }
 }

@@ -4,7 +4,11 @@ using System.Text;
 
 namespace SmartHouse
 {
-    interface ISmartHouse
+    public interface ISmartHouse
     {
+        void LightsOn();
+        void LightsOff();
+        void UnlockDoor();
+        void LockDoor(Face face);
     }
 }
