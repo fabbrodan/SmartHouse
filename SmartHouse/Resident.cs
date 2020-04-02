@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SmartHouseLibrary
 {
-    class Resident
+    public class Resident
     {
         private string _name;
         private Face _face;

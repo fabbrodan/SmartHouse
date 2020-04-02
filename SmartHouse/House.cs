@@ -4,7 +4,19 @@ using System.Text;
 
 namespace SmartHouseLibrary
 {
-    class House
+    public class House : SmartHouse
     {
+        private string _address;
+        private List<Room> _roomList;
+
+        public House(string Address)
+        {
+            _address = Address;
+        }
+
+        public void AddRoom(Room room)
+        {
+            _roomList.Add(room);
+        }
     }
 }
