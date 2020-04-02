@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SmartHouse
 {
-    public class CoffeeMaker
+    public class CoffeeMaker : IKitchenAppliance
     {
         public int Water { get; set; }
         public int CoffeePowder { get; set; }
@@ -16,7 +16,7 @@ namespace SmartHouse
             CoffeePowder = 100;
         }
 
-        public void MakeCoffee()
+        private void MakeCoffee()
         {
             Water -= 10;
             CoffeePowder -= 10;
@@ -34,5 +34,9 @@ namespace SmartHouse
             Water = 100;
         }
 
+        public void TurnOn()
+        {
+            MakeCoffee();
+        }
     }
 }
