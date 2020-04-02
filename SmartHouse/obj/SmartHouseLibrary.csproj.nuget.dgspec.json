@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouse.csproj": {}
+    "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouseLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouse.csproj": {
+    "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouse.csproj",
-        "projectName": "SmartHouse",
-        "projectPath": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouse.csproj",
+        "projectUniqueName": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouseLibrary.csproj",
+        "projectName": "SmartHouseLibrary",
+        "projectPath": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouseLibrary.csproj",
         "packagesPath": "C:\\Users\\91lydnil\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\obj\\",
         "projectStyle": "PackageReference",

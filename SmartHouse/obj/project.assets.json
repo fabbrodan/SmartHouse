@@ -8,25 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\danie\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\91lydnil\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\SmartHouse\\SmartHouse\\SmartHouse.csproj",
-      "projectName": "SmartHouse",
-      "projectPath": "E:\\Projects\\SmartHouse\\SmartHouse\\SmartHouse.csproj",
-      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\SmartHouse\\SmartHouse\\obj\\",
+      "projectUniqueName": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouseLibrary.csproj",
+      "projectName": "SmartHouseLibrary",
+      "projectPath": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\SmartHouseLibrary.csproj",
+      "packagesPath": "C:\\Users\\91lydnil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\91lydnil\\Desktop\\SmartHouse\\SmartHouse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\91lydnil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -63,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

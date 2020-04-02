@@ -1,10 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SmartHouse
+namespace SmartHouseLibrary
 {
     public class SmartHouse : ISmartHouse
     {
+
+        public CoffeeMaker MoccaMaster { get; set; }
+
+        public void TurnOnKitchenAppliance(IKitchenAppliance appliance)
+        {
+            appliance.TurnOn();
+        }
+
         private List<Resident> _residents;
         public SmartHouse()
         {
