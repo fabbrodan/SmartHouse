@@ -52,7 +52,7 @@ namespace SmartHouse
         {
             foreach (var resident in _residents)
             {
-                if (resident.GetFace() == face)
+                if (resident.GetFace().CompareTo(face) == 1)
                 {
                     return true;
                 }
