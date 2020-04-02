@@ -1,0 +1,9 @@
+E:\Projects\SmartHouse\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouseLibrary.csprojAssemblyReference.cache
+E:\Projects\SmartHouse\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouseLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\SmartHouse\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouseLibrary.AssemblyInfoInputs.cache
+E:\Projects\SmartHouse\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouseLibrary.AssemblyInfo.cs
+E:\Projects\SmartHouse\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouseLibrary.deps.json
+E:\Projects\SmartHouse\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouseLibrary.dll
+E:\Projects\SmartHouse\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouseLibrary.pdb
+E:\Projects\SmartHouse\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouseLibrary.dll
+E:\Projects\SmartHouse\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouseLibrary.pdb

@@ -48,12 +48,16 @@ namespace SmartHouseLibrary
             
         }
 
-        public void UnlockDoor(Face face)
+        public bool UnlockDoor(Face face)
         {
+            bool unLocked = false;
+
             if (MatchFace(face))
             {
-                
+                unLocked = true;    
             }
+
+            return unLocked;
         }
 
         private bool MatchFace(Face face)

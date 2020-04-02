@@ -8,7 +8,7 @@ namespace SmartHouseLibrary
     {
         void LightsOn();
         void LightsOff();
-        void UnlockDoor(Face face);
+        bool UnlockDoor(Face face);
         void LockDoor();
     }
 }

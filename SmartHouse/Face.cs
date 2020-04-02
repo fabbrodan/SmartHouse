@@ -58,16 +58,20 @@ namespace SmartHouseLibrary
 
     public struct Colors
     {
-        private string Color;
+        private string _color;
 
+        public Colors(string Color)
+        {
+            _color = Color;
+        }
         public void SetColor(string color)
         {
-            Color = color;
+            _color = color;
         }
 
         public string GetColor()
         {
-            return Color;
+            return _color;
         }
     }
 }
