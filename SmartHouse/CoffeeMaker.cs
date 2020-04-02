@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SmartHouse
+namespace SmartHouseLibrary
 {
     public class CoffeeMaker : IKitchenAppliance
     {
-        public int Water { get; set; }
-        public int CoffeePowder { get; set; }
+        public int Water { get; private set; }
+        public int CoffeePowder { get; private set; }
 
-        //You get som einitial water and coffeepowder with you first CofeeMaker
+        //You get some initial water and coffeepowder with you first CofeeMaker
         public CoffeeMaker()
         {
             Water = 100;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SmartHouse
+namespace SmartHouseLibrary
 {
     public class SmartHouse
     {
