@@ -4,13 +4,12 @@ using System.Text;
 
 namespace SmartHouse
 {
-    class CoffeeMaker
+    public class CoffeeMaker
     {
         public int Water { get; set; }
         public int CoffeePowder { get; set; }
 
         //You get som einitial water and coffeepowder with you first CofeeMaker
-        //Can i commit,push this comment?
         public CoffeeMaker()
         {
             Water = 100;
